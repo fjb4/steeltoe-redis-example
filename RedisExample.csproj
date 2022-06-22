@@ -10,7 +10,7 @@
     <PackageReference Include="Steeltoe.Extensions.Configuration.CloudFoundryCore"  Version="2.3.0" />
     <PackageReference Include="Steeltoe.Management.ExporterCore"  Version="2.3.0"/>
     <PackageReference Include="Steeltoe.Management.CloudFoundryCore" Version="2.3.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
     <PackageReference Include="Steeltoe.CloudFoundry.ConnectorCore"  Version="2.3.0"/>
   </ItemGroup>
